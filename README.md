@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Hello,%20I'm%20SeungJae%20Son&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Sonny-Kor&descAlignY=55&descAlign=84)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=Hello,%20I'm%20SeungJae%20Son&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Sonny-Kor&descAlignY=55&descAlign=84)
 
 ---
 
